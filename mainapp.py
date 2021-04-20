@@ -40,4 +40,4 @@ def view(key):
     return render_template('viewer.html', row=False, code=get_content(key), extension=ext)
 
 if __name__ == '__main__':
-    app.run()
+    app.run(host='0.0.0.0', port=80)
