@@ -8,6 +8,10 @@ Features :
 Todo :
 - Create documents in website
 
+How to run :
+  Run mainapp.py and server.py :)
+ 
+
 Api Usage :
 1. For create documents : 
 - Api url : /api/documents
